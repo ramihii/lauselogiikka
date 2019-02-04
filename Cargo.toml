@@ -1,0 +1,7 @@
+[package]
+name = "lauselogiikka"
+version = "0.1.0"
+authors = ["Rami Hiipakka <rami.hiipakka@gmail.com>"]
+edition = "2018"
+
+[dependencies]
